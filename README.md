@@ -1,1 +1,3 @@
 # js-study
+
+EJERCICIOS PRÁCTICOS JAVASCRIPT
